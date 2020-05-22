@@ -12,13 +12,13 @@
 ![lab](animation.gif)
 
 ## Початок роботи з програмою - вибір між просто входом та симуляцією
-![lab](start.png)
+![lab](start.jpg)
 
 ## Логін
-![lab](login.png)
+![lab](login.jpg)
 
 ## Інтерфейс користувача
-![lab](user.png)
+![lab](user.jpg)
 
 ## Інтерфейс адміна
-![lab](admin.png)
+![lab](admin.jpg)
